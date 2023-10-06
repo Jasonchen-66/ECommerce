@@ -2,7 +2,7 @@
 
 Welcome to the Ecommerce project, a sleek and modern online store dedicated to the sale of jackets. This web application is built with Django powering the backend and Vue.js driving the frontend.
 
-
+![Screenshot of Ecommerce Application](https://github.com/Jasonchen-66/ECommerce/blob/main/screenshoots/Screenshot%202023-10-05%20at%209.54.43%20PM.png) 
 
 ## Features
 
